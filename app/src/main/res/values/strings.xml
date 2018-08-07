@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Sighisoara Tour</string>
+    
+    <string name="old_town">Old Town</string>
+    <string name="bars">Bars</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="events">Events</string>
+
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+    <string name="description">Description</string>
+
+    <string name="clock_tower_title">The Clock Tower</string>
+    <string name="clock_tower_detail">Str. Turnului, Sighișoara 545400</string>
+    <string name="clock_tower_description">This is the tallest tower in the citadel of Sighișoara. It is one of the two main entrances in the citadel. At some point is served as the town hall but today the most important role it serves is that of a giant clock watching over the old town. You can also visit the history museum inside the tower and don\'t forget to climb all the way to the top. A truly amazing sight.</string>
+
+    <string name="monastery_church_title">The Monastery Church</string>
+    <string name="monastery_church_detail">Str.  Cetății, Sighișoara 545400</string>
+    <string name="monastery_church_description">Named the monastery church due to once being a monastery for catholic monks, today, the church is used by the small saxon lutheran community for weekly services.</string>
+
+    <string name="tanners_tower_title">The Tanners Tower</string>
+    <string name="tanners_tower_detail">Str. Cositorarilor, Sighișoara 545400</string>
+    <string name="tanners_tower_description">Definitely the most intriguing tower in the citadel. The way it was built makes it unique. The first floor has 4 sides, the second floor has 5 sides, the third floor 8 sides and the roof 6 sides.</string>
+
+    <string name="covered_staircase_title">The Covered Staircase</string>
+    <string name="covered_staircase_detail">Str. Scara Şcolarilor, Sighișoara 545400</string>
+    <string name="covered_staircase_description">This covered staircase has been used by students for centuries as the main way to get to the school on top of the hill. Today it counts only 174 steps, but it used to go all the way dow to the main square.</string>
+
+    <string name="school_on_the_hill_title">School on the Hill</string>
+    <string name="school_on_the_hill_detail">Str. Scării 5\-6, Sighișoara 545400</string>
+    <string name="school_on_the_hill_description">The school on the hill is named after Joseph Haltrich. He was a student, teacher and principal at this school. He was also a poet and a priest in the surrounding area of Sighisoara.</string>
+
+    <string name="church_on_the_hill_title">The Church on the Hill</string>
+    <string name="church_on_the_hill_detail">Str. Scării, Sighișoara 545400</string>
+    <string name="church_on_the_hill_description">This church is placed on the highest spot in all Sighișoara. It is open to the public and even offers guided tpurs of the building. During summer concerts take place here every friday. </string>
+
+    <string name="citadel_square_title">The Main Square</string>
+    <string name="citadel_square_detail">Str. Piața Cetații, Sighișoara 545400</string>
+    <string name="citadel_square_description">From here you can wander in all directions through the citadel. Feel free te admire the view and maybe stop for a drink at the many shops.</string>
+
+    <string name="medieval_cafe_title">Medieval Cafe</string>
+    <string name="medieval_cafe_detail">Str. Cositorarilor 10, Sighișoara 545400</string>
+    <string name="medieval_cafe_description">A small and nice cafe on the higher side of the citadel. Here you can also find desserts and small servings of food.</string>
+
+    <string name="casa_cositorarului_title">Casa Cositorarului</string>
+    <string name="casa_cositorarului_detail">Str.  Cositorarilor 8\-9, Sighișoara 545400</string>
+    <string name="casa_cositorarului_description">A small and cozy cafe where you can find hot drinks and sweets cakes, all inside the citadel.</string>
+
+    <string name="voynich_title">Voynich Cafe and Pub </string>
+    <string name="voynich_detail">Str. Octavian Goga 12, Sighișoara 545400</string>
+    <string name="voynich_description">A hip pub in the lower town. You will usually find a young community here. If it is possible try to participate to one of the pub quiz\'s./</string>
+
+    <string name="the_bean_title">The Bean Coffee House</string>
+    <string name="the_bean_detail">Str. Octavian Goga 4, Sighișoara 545400</string>
+    <string name="the_bean_description">Are you in need of a coffee but are in a hurry. The Bean is just for that. Grab your hot cup of coffee and get on the go,</string>
+
+    <string name="house_on_the_rock_title">House on the Rock</string>
+    <string name="house_on_the_rock_detail">Piața Cetății, Sighișoara 545400</string>
+    <string name="house_on_the_rock_description">This cafe is located in the heart of the citadel. Here you will find the tastiest homemade baked goods.</string>
+
+    <string name="alte_post_title">Gasthaus Alte Post</string>
+    <string name="alte_post_cafe_detail">Piața Hermann Oberth, Sighișoara 545400</string>
+    <string name="alte_post_cafe_description">A nice restaurant that serves a variety of dishes, including traditional. It has a really enjoyable atmosphere and nice cellar.</string>
+
+    <string name="georgius_krauss_house_title">Georgius Krauss House</string>
+    <string name="georgius_krauss_detail">Str. Bastionului 11, Sighișoara 545400</string>
+    <string name="georgius_krauss_description">This may be the priciest place you could eat in the citadel, but all for good reason. Here you can find the most exotic dishes and desserts.</string>
+
+    <string name="la_perla_title">La Perla</string>
+    <string name="la_perla_detail">Str. Hermann Oberth 15, Sighișoara 545400</string>
+    <string name="la_perla_description">La Perla is one of the oldest restaurants in town. Here you can find all sorts of dishes in the center of the lower town.</string>
+
+    <string name="concordia_title">Concordia</string>
+    <string name="concordia_detail">Str. Hermann Oberth 1, Sighișoara 545400</string>
+    <string name="concordia_description">From here you cand have a nice view of the citadel but also the central park. The right place if you\'re looking for outdoor seating.</string>
+
+    <string name="house_with_the_stag_title">House with the Stag</string>
+    <string name="house_with_the_stag_detail">Str. Școlii 1, Sighișoara 545400</string>
+    <string name="house_with_the_stag_description">Called this way due to the stag\'s head placed on the building, this restaurant is located in the citadel\' square. A nice place with tasty food.</string>
+
+    <string name="quattro_amicii_title">Quattro Amicii Pizzeria</string>
+    <string name="quattro_amicii_detail">Str. Octavian Goga 12, Sighișoara 545400</string>
+    <string name="quattro_amicii_description">A nice, family friendly pizzeria. Maybe even the best pizza in town? Great food and good prices.</string>
+
+    <string name="german_culture_title">German Culture Days</string>
+    <string name="german_culture_detail">EVERY YEAR IN MAY</string>
+    <string name="german_culture_description">An events which highlights the saxon and german community in this town. During this event you can see numerous traditional german shows and eat german food. </string>
+
+    <string name="christmas_fair_title">The Christmas Fair</string>
+    <string name="christmas_fair_detail">EVERY YEAR IN DECEMBER</string>
+    <string name="christmas_fair_description">The Christmas Fair is held in both the lower town and the old town. You can find thing made by local craftsmen and business\'s.</string>
+
+    <string name="blues_festival_title">Blues Festival</string>
+    <string name="blues_festival_detail">EVERY YEAR IN MARCH</string>
+    <string name="blues_festival_description">A great opportunity to listen to great music outdoors and in the various concert rooms in this town.</string>
+
+    <string name="brass_band_fest_title">Brass Band Festival</string>
+    <string name="brass_band_fest_detail">EVERY YEAR IN SEPTEMBER</string>
+    <string name="brass_band_fest_description">If you are here during this festival you will be able to many bands marching through the town and citadel. A really fun and exiting experience.</string>
+
+    <string name="proetnica_title">Proetnica Festival</string>
+    <string name="proetnica_detail">EVERY YEAR IN AUGUST</string>
+    <string name="proetnica_description">During Proetnica you can see shows put up by all the ethnic communities that are found in Transilvania. </string>
+
+    <string name="medieval_festival_title">Medieval Festival</string>
+    <string name="medieval_festival_detail">EVERY EAR IN JULY</string>
+    <string name="medieval_festival_description">This is for sure the biggest festival in Sighișoara. You can see music shows, attend knight fights, plays and eat lots of delicious local food. One of the best athmospheres you will come across.</string>
+
+    <string name="craftsman_fair_title">The Craftman Fair</string>
+    <string name="craftsman_fair_detail">EVERY YEAR IN JUNE</string>
+    <string name="craftsman_fair_description">Craftsmen from all around Transilvania gather to show their trade and sell various objects.</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4F2E37</color>
+    <color name="colorPrimaryDark">#3a2027</color>
+    <color name="colorAccent">#ef943e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="oldTownCategory">#A5413F</color>
+    <color name="barsCategory">#E86740</color>
+    <color name="restaurantsCategory">#F99446</color>
+    <color name="eventsCategory">#FEBC65</color>
+</resources>
